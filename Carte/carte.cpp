@@ -1,4 +1,4 @@
-#include <iostream>
+#include <fstream>
 
 using namespace std;
 
@@ -10,8 +10,8 @@ int main ()
     int x;
     fin >> x;
     int v[x];
-    for (int i. =1; i<=n; i++)
+    for (int i = 1; i<=x; i++)
     {
-        fin >> x
+        fin >> v[i];
     }
 }
