@@ -14,4 +14,6 @@ int main ()
     {
         fin >> v[i];
     }
+
+    for
 }
