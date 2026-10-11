@@ -62,4 +62,5 @@ int main()
             fout << k - maxi << " ";
         }
     }
+    return 0;
 }

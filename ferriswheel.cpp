@@ -33,4 +33,5 @@ int main ()
 
     if (st==dr) cout << gondole + 1;
     else cout << gondole;
+    return 0;
 }

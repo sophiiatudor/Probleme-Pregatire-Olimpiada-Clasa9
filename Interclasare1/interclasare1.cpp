@@ -57,4 +57,5 @@ int main ()
         fout << c[i] << " ";
         if (i%10==0) fout << "\n";
     }
+    return 0;
 }

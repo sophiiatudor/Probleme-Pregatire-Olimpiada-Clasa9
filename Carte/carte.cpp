@@ -39,4 +39,5 @@ int main()
         save = zile;
     }
     fout << zile << " " << save << " " << maxi;
+    return 0;
 }

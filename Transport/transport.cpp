@@ -40,4 +40,5 @@ int main ()
     }
     int ans = st;
     fout << ans;
+    return 0;
 }

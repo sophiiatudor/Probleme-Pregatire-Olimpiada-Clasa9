@@ -36,4 +36,5 @@ int main()
     }
 
     fout << maxim << " " << st << " " << dr;
+    return 0;
 }

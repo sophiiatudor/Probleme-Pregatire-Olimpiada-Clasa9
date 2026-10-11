@@ -27,4 +27,5 @@ int main()
     }
     if (ok == 0)
         fout << "0 0";
+    return 0;
 }

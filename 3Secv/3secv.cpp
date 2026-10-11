@@ -30,6 +30,6 @@ int main()
         cnt[rest]++;
     }
     fout << nr;
-
+    return 0;
 
 }

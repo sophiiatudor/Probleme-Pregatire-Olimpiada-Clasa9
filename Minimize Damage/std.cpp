@@ -36,4 +36,5 @@ int main ()
     }
 
     fout << st << " " << dr;
+    return 0;
 }

@@ -37,4 +37,5 @@ int main()
     }
     int ans = st;
     cout << ans;
+    return 0;
 }

@@ -45,4 +45,5 @@ int main ()
         if (ok==true) cout << 1 << endl;
         else cout << 0 << endl; 
     }
+    return 0;
 }

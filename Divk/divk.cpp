@@ -31,4 +31,5 @@ int main ()
     }
 
     fout << cnt;
+    return 0;
 }
