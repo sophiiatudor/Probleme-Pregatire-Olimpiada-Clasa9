@@ -21,8 +21,7 @@ int main()
     for (int i = 1; i <= n; i++)
     {
         cin >> v[i];
-        if (maxi < v[i])
-            maxi = v[i];
+        if (maxi < v[i]) maxi = v[i];
     }
     long long st = 0, dr = m * maxi;
     while (st < dr)
@@ -32,8 +31,7 @@ int main()
         {
             st = mij + 1;
         }
-        else
-            dr = mij;
+        else dr = mij;
     }
     int ans = st;
     cout << ans;
